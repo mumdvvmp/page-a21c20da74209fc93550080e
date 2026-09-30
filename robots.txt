@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.xn--huajicloud-cn3r594m.com/sitemap.xml
